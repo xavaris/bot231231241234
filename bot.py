@@ -273,7 +273,7 @@ def main():
 
     app.add_handler(
         MessageHandler(
-            filters.ALL,
+            filters.TEXT | filters.CaptionRegex(".*"),
             check_message,
         )
     )

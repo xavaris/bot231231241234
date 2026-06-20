@@ -14,9 +14,9 @@ from telegram.ext import (
     CallbackQueryHandler,
     filters,
 )
+import os
 
-BOT_TOKEN = "8834844169:AAHYZ7Q1qXlDFN-XSz5fGiEoWrnAq0nSOLk"
-
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 GROUP_ID = -1003799272783
 MUTE_DAYS = 7
 

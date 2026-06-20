@@ -37,7 +37,7 @@ BANNED_WORDS = {
     "feta", "mefedron", "mefa",
     "4mmc", "4-mmc", "3cmc", "3-cmc",
     "4cmc", "4-cmc", "klef", "krysztal",
-    "crystal", "ice",
+    "crystal", "ice", "mewa", "mew", "krix", "kris",
 
     # kokaina
     "koks", "kokaina", "coke",
@@ -63,7 +63,7 @@ BANNED_WORDS = {
     # benzodiazepiny
     "xanax", "alpra",
     "alprazolam", "clonazepam",
-    "klony", "diazepam",
+    "klony", "diazepam", "zany", "ixy",
 }
 
 LINK_PATTERN = re.compile(

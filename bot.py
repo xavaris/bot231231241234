@@ -63,7 +63,7 @@ BANNED_WORDS = {
     # benzodiazepiny
     "xanax", "alpra",
     "alprazolam", "clonazepam",
-    "klony", "diazepam", "zany", "ixy",
+    "klony", "diazepam", "zany", "ixy", "xany",
 }
 
 LINK_PATTERN = re.compile(

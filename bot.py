@@ -41,7 +41,7 @@ BANNED_WORDS = {
 
     # kokaina
     "koks", "kokaina", "coke",
-    "coca", "snow",
+    "coca", "snow", "kamyk", "kamyczek" 
 
     # opio
     "opio", "opioid", "opioidy",
